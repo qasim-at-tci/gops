@@ -15,3 +15,6 @@
 
 ## App of Apps
 * `kubectl create ./app.yaml`
+
+![Base View](images/base-view.png)
+![App of Apps](images/app-of-apps.png)
