@@ -1,3 +1,9 @@
+# GitOps
+
+## Spin Kubernetes Cluster
+
+* `minikube start --kubernetes-version=v1.28.12 --cni=calico --network-plugin=cni --memory=6G --cpus=3`
+
 ## Get the code
 
 `git clone https://github.com/qasim-at-tci/gops.git`
