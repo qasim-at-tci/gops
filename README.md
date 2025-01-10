@@ -10,3 +10,4 @@
 ## Jenkins Installation
 
 * `kubectl create ./jenkins.yaml`
+* Setup jenkins to have build agents as kubernetes pods (google is your mate)
