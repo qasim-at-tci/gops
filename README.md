@@ -7,7 +7,5 @@
 * `kubectl create namespace argocd`
 * `helm install --values ./argo-cd/values.yaml argocd ./argo-cd --namespace argocd`
 
-## Jenkins Installation
-
-* `kubectl create ./jenkins.yaml`
-* Setup jenkins to have build agents as kubernetes pods (google is your mate)
+## App of Apps
+* `kubectl create ./app.yaml`
